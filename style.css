@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.timer-box{
+  padding: 40px 40px;
+  background-color: aqua;
+  box-shadow: 10px 0px 10px rgb(0,0,0,0.4);
+}
+
+.stopwatch-timer {
+  font-size: 35px;
+  padding: 5px 15px;
+}
+.btn {
+  font-size: 18px;
+  padding: 5px 8px;
+  margin: 30px 20px;
+}
